@@ -1,0 +1,80 @@
+*{
+	text-align: center;
+		font-family: Lato;
+
+}
+*:first-letter {
+    text-transform:capitalize;
+}
+.b1
+{
+
+}
+#data,#data4,#moredata,#data1,#data2,#data3,#twitter,#googleplus,#youtube, #instagram, #tumblr, #reddit, #flickr, #dailymotion, #vimeo, #vine, #vkontakte,#ranking
+{
+	display: none;
+	font-size :3ex;
+	background-color: #052c3e;
+	color: white;
+	font-family: Lato;
+		padding: 0.5ex 0.5ex 0.5ex 0.5ex;
+		   overflow-y: auto;
+
+
+}
+#twitter,#googleplus,#youtube, #instagram, #tumblr, #reddit, #flickr, #dailymotion, #vimeo, #vine, #vkontakte
+{
+		font-size :3ex;
+
+}
+#twitter
+{
+
+	        background-image: url("imag/twitter.png");
+
+
+}
+#note
+{
+	
+	font-size :2ex;
+	background-color: orange;
+	color: white;
+	font-family: Lato;
+		padding: 0.5ex 0.5ex 0.5ex 0.5ex;
+	
+
+}
+#socialstat
+{
+			display: none;
+
+	font-size :2.5ex;
+	background-color: #052c3e;
+	color: white;
+	font-family: Lato;
+		padding: 0.5ex 0.5ex 0.5ex 0.5ex;
+		   overflow-y: auto;
+
+}
+body
+{
+	background-color: #1784bd;
+}
+p
+{
+	font-size :5ex;
+	
+	color: white;
+}
+input
+{
+	font-size :3ex;
+	background-color: #082d3f;
+	color: white;
+	border-radius: 2ex;
+	padding: 0.5ex 0.5ex 0.5ex 0.5ex;
+	cursor: pointer; 
+	cursor: hand; 
+
+}
